@@ -1,0 +1,4 @@
+administer google my business api settings:
+  title: 'Administer Google My Business API settings'
+  description: 'Users with this permission will be able to administer Google My Business API settings'
+  restrict access: TRUE
