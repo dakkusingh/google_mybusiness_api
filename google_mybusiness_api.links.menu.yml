@@ -1,0 +1,5 @@
+google_mybusiness_api.settings:
+  title: 'Google My Business API settings'
+  route_name: google_mybusiness_api.settings
+  description: 'Configure Google My Business API settings.'
+  parent: system.admin_config_services
