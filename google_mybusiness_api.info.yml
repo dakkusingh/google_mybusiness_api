@@ -4,3 +4,5 @@ type: module
 package: Google
 core: 8.x
 configure: google_mybusiness_api.settings
+dependencies:
+  - google_api_client:google_api_client
